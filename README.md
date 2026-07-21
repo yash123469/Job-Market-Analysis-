@@ -41,17 +41,34 @@ and industry patterns.
 
 ---
 
-## ❓ Business Questions Answered
-1. States with most number of jobs
-2. Average min & max salaries by state
-3. Average salary in different states
-4. Top 5 industries by job postings
-5. Companies with most job openings
-6. Job titles with most number of jobs
-7. Salary by job title
-8. Skills required per job title
-9. Salary vs education level
-10. Cross-feature analysis & insights
+## 🎯 What I Explored
+During my analysis I explored multiple 
+dimensions of the job market:
+
+**Geography** — Which cities and states 
+are the hottest markets for data roles?
+
+**Compensation** — What salary ranges 
+should I expect and where?
+
+**Industries** — Which sectors are 
+investing most in data science talent?
+
+**Companies** — Who are the biggest 
+hirers and what do they offer?
+
+**Skills** — What technical skills give 
+the best chance of getting hired?
+
+**Job Titles** — Which roles have the 
+most demand and best pay?
+
+**Education** — Does a higher degree 
+actually lead to better pay?
+
+**Hidden Patterns** — What other 
+interesting correlations exist in the 
+data that are not obvious at first glance?
 
 ---
 
